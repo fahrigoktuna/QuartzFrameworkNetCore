@@ -1,0 +1,13 @@
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.deps.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.runtimeconfig.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.runtimeconfig.dev.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.csprojResolveAssemblyReference.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.csproj.CoreCompileInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.AssemblyInfoInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.AssemblyInfo.cs
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.WinService\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.WinService.pdb

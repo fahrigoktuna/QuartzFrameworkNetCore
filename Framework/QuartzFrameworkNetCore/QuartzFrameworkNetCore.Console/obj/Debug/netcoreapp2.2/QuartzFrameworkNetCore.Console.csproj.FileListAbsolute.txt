@@ -1,0 +1,13 @@
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.deps.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.runtimeconfig.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.runtimeconfig.dev.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.csproj.CoreCompileInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.AssemblyInfoInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.AssemblyInfo.cs
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Console\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Console.csprojResolveAssemblyReference.cache

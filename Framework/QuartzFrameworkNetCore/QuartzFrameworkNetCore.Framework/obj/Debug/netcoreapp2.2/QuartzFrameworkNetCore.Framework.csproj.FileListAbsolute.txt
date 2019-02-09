@@ -1,0 +1,8 @@
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.deps.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.csproj.CoreCompileInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.AssemblyInfoInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.AssemblyInfo.cs
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.pdb

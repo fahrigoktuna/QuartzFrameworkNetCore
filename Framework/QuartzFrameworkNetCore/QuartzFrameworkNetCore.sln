@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzFrameworkNetCore.Framework", "QuartzFrameworkNetCore.Framework\QuartzFrameworkNetCore.Framework.csproj", "{8CEDE0C9-34FD-4F54-8FE9-A94790F91D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzFrameworkNetCore.ConcreteJob1Service", "QuartzFrameworkNetCore.ConcreteJob1Service\QuartzFrameworkNetCore.ConcreteJob1Service.csproj", "{1EB4177D-0C0D-4798-90F0-89A04E18AF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzFrameworkNetCore.Console", "QuartzFrameworkNetCore.Console\QuartzFrameworkNetCore.Console.csproj", "{1DA71A24-55DA-4586-B185-DB59C445C0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzFrameworkNetCore.ConcreteJob2Service", "QuartzFrameworkNetCore.ConcreteJob2Service\QuartzFrameworkNetCore.ConcreteJob2Service.csproj", "{1BF29D56-D323-4DFE-9C5F-ADF73EA4CF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzFrameworkNetCore.WinService", "QuartzFrameworkNetCore.WinService\QuartzFrameworkNetCore.WinService.csproj", "{5FE0A4E1-1368-44E2-BEB4-E948AD89E8AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CEDE0C9-34FD-4F54-8FE9-A94790F91D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEDE0C9-34FD-4F54-8FE9-A94790F91D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEDE0C9-34FD-4F54-8FE9-A94790F91D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEDE0C9-34FD-4F54-8FE9-A94790F91D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB4177D-0C0D-4798-90F0-89A04E18AF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB4177D-0C0D-4798-90F0-89A04E18AF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB4177D-0C0D-4798-90F0-89A04E18AF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB4177D-0C0D-4798-90F0-89A04E18AF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA71A24-55DA-4586-B185-DB59C445C0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA71A24-55DA-4586-B185-DB59C445C0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA71A24-55DA-4586-B185-DB59C445C0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA71A24-55DA-4586-B185-DB59C445C0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF29D56-D323-4DFE-9C5F-ADF73EA4CF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF29D56-D323-4DFE-9C5F-ADF73EA4CF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF29D56-D323-4DFE-9C5F-ADF73EA4CF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF29D56-D323-4DFE-9C5F-ADF73EA4CF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE0A4E1-1368-44E2-BEB4-E948AD89E8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE0A4E1-1368-44E2-BEB4-E948AD89E8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE0A4E1-1368-44E2-BEB4-E948AD89E8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE0A4E1-1368-44E2-BEB4-E948AD89E8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {671E9FA3-945D-4921-806F-97750303B7B2}
+	EndGlobalSection
+EndGlobal

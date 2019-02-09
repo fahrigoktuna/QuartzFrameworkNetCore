@@ -1,0 +1,11 @@
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.csproj.CoreCompileInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.AssemblyInfoInputs.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.AssemblyInfo.cs
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.deps.json
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.csprojResolveAssemblyReference.cache
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.dll
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.ConcreteJobs\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.ConcreteJobs.pdb
