@@ -6,3 +6,4 @@ C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetC
 C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\bin\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.pdb
 C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.dll
 C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.pdb
+C:\Users\fahri\source\repos\QuartzFrameworkNetCore\Framework\QuartzFrameworkNetCore\QuartzFrameworkNetCore.Framework\obj\Debug\netcoreapp2.2\QuartzFrameworkNetCore.Framework.csprojResolveAssemblyReference.cache
